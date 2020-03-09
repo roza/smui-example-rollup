@@ -2,6 +2,13 @@
 
 An example project implementing [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) with [Rollup](https://github.com/rollup/rollup).
 
+
+# Install and launch 
+
+- npm i
+- npm run build
+- npm run serve
+
 # License
 
 Copyright 2019 Hunter Perrin
